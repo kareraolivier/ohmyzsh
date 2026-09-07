@@ -13,9 +13,12 @@ log/
 .DS_Store
 
 # editor configs
-.vscode
 .idea
 
 # zcompile cached files
 *.zwc
 *.zwc.old
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
